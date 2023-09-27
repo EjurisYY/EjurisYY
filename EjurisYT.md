@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ejurisyy">
-    <img src="https://cdn.discordapp.com/attachments/1156198052185509888/1156545406847680552/Untitled.jpg?ex=65155c58&is=65140ad8&hm=6cb2dae829581ac34edf9949abad1a319c058f16bcfee83010d780cc08b18cde" alt="Profile Image" width="200" height="200">
+    <img src="https://cdn.discordapp.com/attachments/1156198052185509888/1156545406847680552/Untitled.jpg?ex=65155c58&is=65140ad8&hm=6cb2dae829581ac34edf9949abad1a319c058f16bcfee83010d780cc08b18cde" alt="Profile Image" width="1000" height="1000">
   </a>
 </p>
 
